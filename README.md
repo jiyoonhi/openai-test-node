@@ -16,7 +16,7 @@ It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactj
 3. Navigate into the project directory
 
    ```bash
-   $ cd openai-quickstart-node
+   $ cd openai-test-node
    ```
 
 4. Install the requirements
